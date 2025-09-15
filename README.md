@@ -23,7 +23,7 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
 
 ## 📊 GitHub统计
-![GitHub统计](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical&locale=cn)
+![GitHub统计](https://github-readme-stats.vercel.app/api?username=iamrainyday&show_icons=true&theme=radical&locale=cn)
 
 ## 🤝 合作与联系
 - 📫 邮箱：[您的邮箱]
